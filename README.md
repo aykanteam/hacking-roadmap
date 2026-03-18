@@ -1,6 +1,6 @@
 Discord sunucumuz: https://discord.gg/tFqQSc6yDf
 
-** Arkadaşlar bu makale ve yöneldirdiğimiz kendi makalelerimiz sürekli devam edecek bilginize, arada uğrayıp daha ayrıntılı bilgi alabilirsiniz ve kaynakları takip edebilirsiniz. **
+**Arkadaşlar bu makale ve yöneldirdiğimiz kendi makalelerimiz sürekli devam edecek bilginize, arada uğrayıp daha ayrıntılı bilgi alabilirsiniz ve kaynakları takip edebilirsiniz.**
 
 
 Merhaba arkadaşlar,
