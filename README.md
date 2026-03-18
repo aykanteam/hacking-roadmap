@@ -24,3 +24,37 @@ Bunu somutlaştırmak için bir örnek vereyim. Bir boksörü düşünün. Yumru
 
 Halbuki sorun yeteneksizlik değil. Sadece temel eksikliği.
 O yüzden bu yazı dizisinde önce o temelleri konuşacağız. Sıkıcı gelebilir, "ne zaman gerçek konulara geçeceğiz?" diye düşünebilirsiniz. Ama şunu söyleyeyim: Bu temelleri içselleştiren biri, ileride çok daha hızlı ilerliyor. Güvenin bana.
+
+---
+
+Şimdi anladığımız gibi, bazı temel teknolojileri öğrenerek işe başlamamız gerekiyor, peki bunlar nedir gelin sırayla inceleyelim.
+
+
+**1. Adım: Network**
+
+Arkadaşlar, "network" kelimesini duyduğunuzda aklınıza direkt olarak iletişim gelsin. Çünkü networking tam olarak budur: bilgisayarların ve diğer cihazların birbirleriyle nasıl konuştuğunu anlamak.
+
+Peki bunu neden öğrenmemiz gerekiyor?
+
+Çünkü o iletişimi tanıdığında, onu istediğin gibi şekillendirebilirsin.
+
+Teknik bir örnekle açıklayayım. ARP Spoofing diye bir saldırı var. Kulağa karmaşık gelebilir ama aslında mantığı çok nettir. Bu saldırıyı yapabilmek için şunları bilmen gerekiyor: ARP protokolünün nasıl çalıştığını ve switch'in MAC adres tablosunu. Bu iki şeyi kavradığında, kendi cihazının MAC adresini değiştirip ARP sorgularını manipüle edebilirsin. Böylece iki cihaz arasındaki trafiğin tam ortasına geçebilirsin.
+
+Gördünüz mü? Saldırı nereden başlıyor? Bir protokolü ve bir tabloyu anlamaktan. Başka bir yerden değil.
+
+Bunun gibi onlarca örnek verebilirim ama şimdilik bu kadarı yeterli. Mesajı aldıysanız devam edelim.
+
+**Kaynaklar:**
+
+Temel seviye için, ücretsiz ve Türkçe bir başlangıç noktası:
+🔗 https://www.youtube.com/watch?v=d30mdlHGvdg&list=PLe-saRM3WlvNJFG4DfwYzTL9P20M6DPHj
+
+Biraz daha derine inmek isteyenler için ücretli ama değerli bir kurs. Udemy indirimlerini kollarsanız 300–400 TL civarına alabilirsiniz:
+🔗 https://www.udemy.com/course/cisco-ccna-200-301-sinavina-hazirlik-ve-network-egitimi
+
+---
+
+
+
+
+
