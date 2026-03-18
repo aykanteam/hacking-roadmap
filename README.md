@@ -70,6 +70,7 @@ Bunların yanında Kali Linux gibi dağıtımlar, siber güvenlik araçlarıyla 
 **Kaynaklar:**
 
 Türkçe efsane bir içerik: https://www.linuxdersleri.net/temel-linux
+
 Parça parça öğreten ve öğrenmesi basit bir kaynaktır ingilizcedir biliginize: https://labex.io/linuxjourney
 
  ---
