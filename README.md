@@ -120,7 +120,9 @@ Devamı gelecek
 
 
 <img width="500" height="707" alt="image" src="https://github.com/user-attachments/assets/64078407-b781-438b-855c-38355119fec0" />
+
 Discord sunucumuz: https://discord.gg/tFqQSc6yDf
+
 Telegram kanalımız: https://t.me/aykantr
 
 
