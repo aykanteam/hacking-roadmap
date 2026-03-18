@@ -52,7 +52,27 @@ Temel seviye için, ücretsiz ve Türkçe bir başlangıç noktası:
 Biraz daha derine inmek isteyenler için ücretli ama değerli bir kurs. Udemy indirimlerini kollarsanız 300–400 TL civarına alabilirsiniz:
 🔗 https://www.udemy.com/course/cisco-ccna-200-301-sinavina-hazirlik-ve-network-egitimi
 
----
+2. Adım: Linux
+   
+Evet, Linux. Bir kısmınız duymuştur, bir kısmınız ilk kez karşılaşıyor olabilir. İkisi de tamamen normal.
+
+Önce küçük ama önemli bir ayrımı yapalım. Linux aslında bir işletim sistemi çekirdeğidir, yani bir işletim sisteminin kalbidir. Ubuntu, Kali, Debian gibi isimler duymuş olabilirsiniz, bunlar ise Linux çekirdeği üzerine inşa edilmiş işletim sistemleridir ve bunlara "Linux dağıtımı" diyoruz. Yani Linux'u bir motor gibi düşünebilirsiniz, dağıtımlar ise o motorun takıldığı farklı arabalardır.
+Kafanız karıştıysa merak etmeyin, kullandıkça oturacak.
+
+Peki neden Linux öğrenmemiz gerekiyor?
+İki çok somut sebebi var.
+
+Birincisi, Linux siber güvenlikçiler ve yazılımcılar için inanılmaz derecede esnek ve güçlü bir ortamdır. Windows'ta tıklaya tıklaya yapacağınız şeyleri Linux'ta tek bir komutla halledebilirsiniz. Araçlar, scriptler, otomasyonlar... hepsi Linux üzerinde çok daha akıcı çalışır. Kulağa zor geliyor ama alıştıktan sonra Windows'a dönmek istemiyorsunuz, inanın 10 yılı geçkin linux kullanıcısıyım ve widnows'u düşünmüyorum hiç.
+
+İkincisi ve belki daha da önemlisi: hedef sistemlerin büyük çoğunluğu Linux kullanıyor. Sunucular, ağ cihazları, IoT sistemleri, web altyapıları... bunların yaklaşık yüzde yetmişi Linux tabanlıdır. Yani saldıracağınız ya da koruyacağınız sistemin dilini bilmek zorundasınız. Bir ülkeye gidip o ülkenin dilini hiç bilmeden bir şeyler yapmaya çalışmak gibi düşünün. Mümkün ama çok zor.
+Bunların yanında Kali Linux gibi dağıtımlar, siber güvenlik araçlarıyla hazır olarak gelir. Yani hem öğrenme ortamınız hem de çalışma ortamınız aynı anda kurulmuş olur.
+
+**Kaynaklar:**
+
+Türkçe efsane bir içerik: https://www.linuxdersleri.net/temel-linux
+Parça parça öğreten ve öğrenmesi basit bir kaynaktır ingilizcedir biliginize: https://labex.io/linuxjourney
+
+ ---
 
 
 
