@@ -1,4 +1,6 @@
-Discord: https://discord.gg/tFqQSc6yDf
+Discord sunucumuz: https://discord.gg/tFqQSc6yDf
+
+** Arkadaşlar bu makale ve yöneldirdiğimiz kendi makalelerimiz sürekli devam edecek bilginize, arada uğrayıp daha ayrıntılı bilgi alabilirsiniz ve kaynakları takip edebilirsiniz. **
 
 
 Merhaba arkadaşlar,
@@ -52,7 +54,7 @@ Temel seviye için, ücretsiz ve Türkçe bir başlangıç noktası:
 Biraz daha derine inmek isteyenler için ücretli ama değerli bir kurs. Udemy indirimlerini kollarsanız 300–400 TL civarına alabilirsiniz:
 🔗 https://www.udemy.com/course/cisco-ccna-200-301-sinavina-hazirlik-ve-network-egitimi
 
-2. Adım: Linux
+**2.Adım: Linux**
    
 Evet, Linux. Bir kısmınız duymuştur, bir kısmınız ilk kez karşılaşıyor olabilir. İkisi de tamamen normal.
 
@@ -73,9 +75,51 @@ Türkçe efsane bir içerik: https://www.linuxdersleri.net/temel-linux
 
 Parça parça öğreten ve öğrenmesi basit bir kaynaktır ingilizcedir biliginize: https://labex.io/linuxjourney
 
+**3. Adım: Web Nasıl çalışır**
+
+Şimdi gelelim belki de en çok sorulan konuya: web.
+"Siteyi nasıl hacklarlar?" sorusunu mutlaka duymuşsunuzdur. Ya da kendiniz sordunuzdur, yalan yok. Bu sorunun cevabına giden yol, web uygulamalarının nasıl çalıştığını anlamaktan geçiyor.
+Web uygulaması dediğimizde aklınıza sadece "site" gelmesin. Kullandığınız her şey aslında bir web uygulaması: bankacılık panelleri, sosyal medya platformları, alışveriş siteleri, yönetim panelleri... Hepsi arka planda belirli bir mantıkla çalışıyor. Ve her birinin kendine özgü zayıf noktaları var.
+
+Peki biz ne öğreneceğiz?
+
+Bir web uygulamasının temel yapısını. İstemci ne yapar, sunucu ne yapar, ikisi arasındaki ilişki nasıl işler. Veritabanı nerede devreye girer, kullanıcı girişleri neden bu kadar kritiktir. Bunları anladığınızda SQL Injection, XSS, IDOR gibi saldırı isimlerini duyduğunuzda "bu ne demek ki?" diye bakmak yerine "ah, buradan giriliyor" diyeceksiniz.
+Çünkü her zafiyet aslında bir mantık hatasıdır. Ve o mantığı görebilmek için önce sistemin normal halini tanıman gerekiyor.
+
+**Kaynaklar**
+Türkçe kısa bir video: https://www.youtube.com/watch?v=S78Txut_ssA
+İngilizcedir ama çok detaylıdır: https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/
+Mozilla'nın resmi sitesidir. https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works
+
+
+**4. Adım: Web HTTP İstekleri**
+   
+Tamam, web uygulamalarının var olduğunu anladık. Ama bunlar birbirleriyle nasıl konuşuyor?
+İşte burada web istekleri devreye giriyor.
+
+Siz bir tarayıcıya adres yazdığınızda ve Enter'a bastığınızda arka planda bir sürü şey oluyor. Tarayıcınız sunucuya bir istek gönderiyor, sunucu bu isteği değerlendiriyor ve size bir cevap dönüyor. Bu döngüye HTTP protokolü diyoruz.
+
+Şöyle düşünün: bir restorana girdiniz ve garsona "bir kahve lütfen" dediniz. Garson mutfağa gitti, kahveyi hazırladı ve size getirdi. Siz istemcisiniz, garson HTTP protokolü, mutfak ise sunucu. Basit ama tam olarak böyle çalışıyor.
+
+Peki bu bizim için neden önemli?
+
+Çünkü bu istekleri okuyabildiğinizde ve manipüle edebildiğinizde, uygulamanın size göstermek istemediği şeyleri görmeye başlarsınız. Hangi parametreler gönderiliyor, hangi header'lar var, sunucu ne döndürüyor... Bunların hepsi bir hikaye anlatıyor. Bizim işimiz o hikayeyi okumayı öğrenmek.
+
+GET mi POST mu, cookie nedir, status code ne anlama gelir... Bunlar ezberlenecek şeyler değil, anlaşılacak şeyler. Bir kez kavradığınızda her şey yerine oturuyor.
+
+**Kaynaklar**
+https://developer.mozilla.org/en-US/docs/Web/HTTP
+https://www.freecodecamp.org/news/what-is-http/
+https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/
+Ayrıntılı HTTP eğitimi: https://www.tutorialspoint.com/http/index.htm
+
  ---
 
+Devamı gelecek
 
+
+<img width="500" height="707" alt="image" src="https://github.com/user-attachments/assets/64078407-b781-438b-855c-38355119fec0" />
+Discord sunucumuz: https://discord.gg/tFqQSc6yDf
 
 
 
