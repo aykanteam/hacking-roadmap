@@ -117,7 +117,7 @@ Ayrıntılı HTTP eğitimi: https://www.tutorialspoint.com/http/index.htm
  ---
 
  ---
- Anonimlikle ilgili yazılarımız: [https://github.com/aykanteam/hacking-roadmap/blob/main/README.md](https://github.com/aykanteam/hacking-roadmap/blob/main/anonimlik.md)
+ Anonimlikle ilgili yazılarımız: https://github.com/aykanteam/hacking-roadmap/blob/main/anonimlik.md
  ---
 
 Devamı gelecek
